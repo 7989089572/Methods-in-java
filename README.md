@@ -26,7 +26,7 @@ In Java, methods can be classified based on whether they take arguments and/or r
 
 ## Code Example
 
-See [`MethodTypes.java`](./MethodTypes.java) for the full code.
+See [`MethodTypes.java`](./MethodType.java) for the full code.
 
 To run all examples:
 
